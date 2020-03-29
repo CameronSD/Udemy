@@ -1,3 +1,7 @@
+# CameronSD
+# App: Map
+# Course: "Python Mega Course" by Ardit Sulce
+
 import folium
 import pandas
 
